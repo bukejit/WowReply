@@ -1,0 +1,13 @@
+{
+  "Author": "bukejit",
+  "Name": "Wow Reply",
+  "Punchline": "/r functionality like WoW.",
+  "Description": "Copies WoW's /r functionality for easier replying to /tells.",
+  "InternalName": "WowReply",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "chat",
+    "reply",
+    "bukejit"
+  ]
+}
