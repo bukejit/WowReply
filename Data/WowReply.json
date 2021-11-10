@@ -4,6 +4,8 @@
   "Punchline": "/r functionality like WoW.",
   "Description": "Copies WoW's /r functionality for easier replying to /tells.",
   "InternalName": "WowReply",
+  "RepoUrl": "https://github.com/bukejit/WowReply",
+  "DalamudApiLevel": 4,
   "ApplicableVersion": "any",
   "Tags": [
     "chat",
